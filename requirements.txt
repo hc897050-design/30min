@@ -1,0 +1,6 @@
+websockets
+requests
+pandas
+pandas-ta
+numpy
+python-telegram-bot
